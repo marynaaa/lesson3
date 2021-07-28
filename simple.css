@@ -1,0 +1,46 @@
+
+.header {
+    color: white;
+    background-color: red;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.text-holder .sunset {
+    width: 100%;
+}
+
+.text-holder {
+    font-size: 18px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.text-holder .selection {
+    text-align: center;
+}
+.cars {
+    text-align: center;
+    display: inline-block;
+}
+
+.cars img {
+    border: 3px dashed black;
+    margin-right: 2px;
+    text-align: center;
+}
+.footer {
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
